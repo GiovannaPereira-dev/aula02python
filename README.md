@@ -1,1 +1,1 @@
-# aula02python
+# probabilidadeeestatistica
